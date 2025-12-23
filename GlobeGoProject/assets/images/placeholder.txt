@@ -1,0 +1,21 @@
+This directory should contain the following image files:
+
+- hero-travel.jpg (800x600px) - Hero section background image
+- default-tour.jpg (400x300px) - Default tour image
+- default-attraction.jpg (400x300px) - Default attraction image  
+- default-avatar.jpg (150x150px) - Default user avatar
+- eiffel-tower.jpg (400x300px) - Eiffel Tower attraction image
+- colosseum.jpg (400x300px) - Colosseum attraction image
+- times-square.jpg (400x300px) - Times Square attraction image
+- tower-bridge.jpg (400x300px) - Tower Bridge attraction image
+- sagrada-familia.jpg (400x300px) - Sagrada Familia attraction image
+- paris-evening.jpg (400x300px) - Paris evening tour image
+- ancient-rome.jpg (400x300px) - Ancient Rome tour image
+- nyc-food.jpg (400x300px) - NYC food tour image
+
+You can use placeholder services like:
+- https://picsum.photos/400/300 for random images
+- https://via.placeholder.com/400x300 for colored placeholders
+- Or add your own images
+
+For the database setup, run the SQL file in database/schema.sql to create the database and sample data.
